@@ -6,12 +6,13 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Lg_MoviStk
+    [Table("LgMoviStk")]
+    public partial class LgMoviStk
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Lg_MoviStk()
+        public LgMoviStk()
         {
-            Lg_MoviStkItem = new HashSet<Lg_MoviStkItem>();
+            LgMoviStkItem = new HashSet<LgMoviStkItem>();
         }
 
         [Key]
@@ -79,11 +80,11 @@ namespace App.Entities.Base
         [StringLength(15)]
         public string Num_Docum_Ventas { get; set; }
 
-        public virtual Lg_Almacen Lg_Almacen { get; set; }
+        public virtual LgAlmacen LgAlmacen { get; set; }
 
-        public virtual Lg_TiposMov Lg_TiposMov { get; set; }
+        public virtual LgTiposMov LgTiposMov { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Lg_MoviStkItem> Lg_MoviStkItem { get; set; }
+        public virtual ICollection<LgMoviStkItem> LgMoviStkItem { get; set; }
     }
 }

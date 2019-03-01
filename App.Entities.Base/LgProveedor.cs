@@ -4,14 +4,15 @@ namespace App.Entities.Base
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
-    
+    using System.Data.Entity.Spatial;
 
-    public partial class Lg_Proveedor
+    [Table("LgProveedor")]
+    public partial class LgProveedor
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Lg_Proveedor()
+        public LgProveedor()
         {
-            Lg_OrdComp = new HashSet<Lg_OrdComp>();
+            LgOrdComp = new HashSet<LgOrdComp>();
         }
 
         [Key]
@@ -45,6 +46,6 @@ namespace App.Entities.Base
         public string Origen { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Lg_OrdComp> Lg_OrdComp { get; set; }
+        public virtual ICollection<LgOrdComp> LgOrdComp { get; set; }
     }
 }

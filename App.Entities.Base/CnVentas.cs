@@ -6,7 +6,7 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Cn_Ventas
+    public partial class CnVentas
     {
         [Key]
         [Column(Order = 0)]
@@ -83,10 +83,10 @@ namespace App.Entities.Base
         [StringLength(12)]
         public string Num_Corre_Referencia { get; set; }
 
-        public virtual Cn_AnexosContables Cn_AnexosContables { get; set; }
+        public virtual CnAnexosContables CnAnexosContables { get; set; }
 
-        public virtual Cn_TiposDocum Cn_TiposDocum { get; set; }
+        public virtual CnTiposDocum CnTiposDocum { get; set; }
 
-        public virtual Cn_TiposVenta Cn_TiposVenta { get; set; }
+        public virtual CnTiposVenta CnTiposVenta { get; set; }
     }
 }

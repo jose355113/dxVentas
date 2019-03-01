@@ -6,7 +6,7 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Cn_Ventas_Items
+    public partial class CnVentasItems
     {
         [Key]
         [Column(Order = 0)]

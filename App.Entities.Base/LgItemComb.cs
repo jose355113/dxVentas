@@ -6,12 +6,13 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Lg_ItemComb
+    [Table("LgItemComb")]
+    public partial class LgItemComb
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Lg_ItemComb()
+        public LgItemComb()
         {
-            Lg_ItemCombDet = new HashSet<Lg_ItemCombDet>();
+            LgItemCombDet = new HashSet<LgItemCombDet>();
         }
 
         [Key]
@@ -35,9 +36,9 @@ namespace App.Entities.Base
         [StringLength(1)]
         public string Flg_Status { get; set; }
 
-        public virtual Lg_Item Lg_Item { get; set; }
+        public virtual LgItem LgItem { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Lg_ItemCombDet> Lg_ItemCombDet { get; set; }
+        public virtual ICollection<LgItemCombDet> LgItemCombDet { get; set; }
     }
 }

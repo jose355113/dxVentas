@@ -6,7 +6,8 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Lg_OrdCompItem
+    [Table("LgOrdCompItem")]
+    public partial class LgOrdCompItem
     {
         [Key]
         [Column(Order = 0)]
@@ -69,8 +70,8 @@ namespace App.Entities.Base
 
         public DateTime? Fec_Ult_Entrega { get; set; }
 
-        public virtual Lg_Item Lg_Item { get; set; }
+        public virtual LgItem LgItem { get; set; }
 
-        public virtual Lg_OrdComp Lg_OrdComp { get; set; }
+        public virtual LgOrdComp LgOrdComp { get; set; }
     }
 }

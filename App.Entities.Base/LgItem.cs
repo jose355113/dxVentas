@@ -1,19 +1,21 @@
-namespace App.Data.DataBase
+namespace App.Entities.Base
 {
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
-    [Table("Lg_Item")]
-    public partial class Lg_Item
+    using System.Data.Entity.Spatial;
+
+    [Table("LgItem")]
+    public partial class LgItem
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Lg_Item()
+        public LgItem()
         {
-            Lg_ItemComb = new HashSet<Lg_ItemComb>();
-            Lg_MoviStkItem = new HashSet<Lg_MoviStkItem>();
-            Lg_OrdCompItem = new HashSet<Lg_OrdCompItem>();
-            Lg_StocksItem = new HashSet<Lg_StocksItem>();
+            LgItemComb = new HashSet<LgItemComb>();
+            LgMoviStkItem = new HashSet<LgMoviStkItem>();
+            LgOrdCompItem = new HashSet<LgOrdCompItem>();
+            LgStocksItem = new HashSet<LgStocksItem>();
         }
 
         [Key]
@@ -43,18 +45,18 @@ namespace App.Data.DataBase
         [StringLength(1)]
         public string Flg_Status { get; set; }
 
-        public virtual Lg_FamIte Lg_FamIte { get; set; }
+        public virtual LgFamIte LgFamIte { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Lg_ItemComb> Lg_ItemComb { get; set; }
+        public virtual ICollection<LgItemComb> LgItemComb { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Lg_MoviStkItem> Lg_MoviStkItem { get; set; }
+        public virtual ICollection<LgMoviStkItem> LgMoviStkItem { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Lg_OrdCompItem> Lg_OrdCompItem { get; set; }
+        public virtual ICollection<LgOrdCompItem> LgOrdCompItem { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Lg_StocksItem> Lg_StocksItem { get; set; }
+        public virtual ICollection<LgStocksItem> LgStocksItem { get; set; }
     }
 }

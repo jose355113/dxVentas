@@ -6,7 +6,8 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Lg_ItemCombDet
+    [Table("LgItemCombDet")]
+    public partial class LgItemCombDet
     {
         [Key]
         [Column(Order = 0)]
@@ -42,6 +43,6 @@ namespace App.Entities.Base
         [StringLength(20)]
         public string Des_Combdet { get; set; }
 
-        public virtual Lg_ItemComb Lg_ItemComb { get; set; }
+        public virtual LgItemComb LgItemComb { get; set; }
     }
 }

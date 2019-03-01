@@ -6,12 +6,12 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Cn_AnexosContables
+    public partial class CnAnexosContables
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Cn_AnexosContables()
+        public CnAnexosContables()
         {
-            Cn_Ventas = new HashSet<Cn_Ventas>();
+            CnVentas = new HashSet<CnVentas>();
         }
 
         [Key]
@@ -99,9 +99,9 @@ namespace App.Entities.Base
         [StringLength(1)]
         public string Flg_Activo { get; set; }
 
-        public virtual Tx_Cliente Tx_Cliente { get; set; }
+        public virtual TxCliente TxCliente { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Cn_Ventas> Cn_Ventas { get; set; }
+        public virtual ICollection<CnVentas> CnVentas { get; set; }
     }
 }

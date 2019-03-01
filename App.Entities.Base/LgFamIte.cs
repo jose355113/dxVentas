@@ -6,23 +6,24 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Cn_TiposVenta
+    [Table("LgFamIte")]
+    public partial class LgFamIte
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Cn_TiposVenta()
+        public LgFamIte()
         {
-            Cn_Ventas = new HashSet<Cn_Ventas>();
+            LgItem = new HashSet<LgItem>();
         }
 
         [Key]
-        [StringLength(3)]
-        public string Cod_Tipo_Venta { get; set; }
+        [StringLength(2)]
+        public string cod_famitem { get; set; }
 
         [Required]
         [StringLength(500)]
-        public string Descripcion { get; set; }
+        public string des_famitem { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Cn_Ventas> Cn_Ventas { get; set; }
+        public virtual ICollection<LgItem> LgItem { get; set; }
     }
 }

@@ -42,9 +42,28 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Categoria.cs" />
+    <Compile Include="CnAnexosContables.cs" />
+    <Compile Include="CnTiposDocum.cs" />
+    <Compile Include="CnTiposVenta.cs" />
+    <Compile Include="CnVentas.cs" />
+    <Compile Include="CnVentasItems.cs" />
+    <Compile Include="LgAlmacen.cs" />
+    <Compile Include="LgFamIte.cs" />
+    <Compile Include="LgItem.cs" />
+    <Compile Include="LgItemComb.cs" />
+    <Compile Include="LgItemCombDet.cs" />
+    <Compile Include="LgMoviStk.cs" />
+    <Compile Include="LgMoviStkItem.cs" />
+    <Compile Include="LgOrdComp.cs" />
+    <Compile Include="LgOrdCompItem.cs" />
+    <Compile Include="LgProveedor.cs" />
+    <Compile Include="LgStocksItem.cs" />
+    <Compile Include="LgTipMoviAlm.cs" />
+    <Compile Include="LgTiposMov.cs" />
     <Compile Include="Marca.cs" />
     <Compile Include="Producto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TxCliente.cs" />
     <Compile Include="UnidadMedida.cs" />
     <Compile Include="Usuario.cs" />
   </ItemGroup>

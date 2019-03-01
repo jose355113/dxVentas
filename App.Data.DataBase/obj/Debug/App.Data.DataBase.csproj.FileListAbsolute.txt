@@ -40,3 +40,7 @@ C:\Web2017\Labs\vs2017web_2018_1\Cap06\Lab02\slnVentas\App.Data.DataBase\obj\Deb
 C:\Web2017\Labs\vs2017web_2018_1\Cap06\Lab02\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
 C:\Web2017\Labs\vs2017web_2018_1\Cap06\Lab02\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
 C:\Web2017\Labs\vs2017web_2018_1\Cap06\Lab02\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csprojAssemblyReference.cache
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CoreCompileInputs.cache
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb

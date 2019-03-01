@@ -6,13 +6,14 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Lg_Almacen
+    [Table("LgAlmacen")]
+    public partial class LgAlmacen
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Lg_Almacen()
+        public LgAlmacen()
         {
-            Lg_MoviStk = new HashSet<Lg_MoviStk>();
-            Lg_TipMoviAlm = new HashSet<Lg_TipMoviAlm>();
+            LgMoviStk = new HashSet<LgMoviStk>();
+            LgTipMoviAlm = new HashSet<LgTipMoviAlm>();
         }
 
         [Key]
@@ -41,9 +42,9 @@ namespace App.Entities.Base
         public string Tip_Presentacion { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Lg_MoviStk> Lg_MoviStk { get; set; }
+        public virtual ICollection<LgMoviStk> LgMoviStk { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Lg_TipMoviAlm> Lg_TipMoviAlm { get; set; }
+        public virtual ICollection<LgTipMoviAlm> LgTipMoviAlm { get; set; }
     }
 }

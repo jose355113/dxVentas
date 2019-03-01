@@ -6,7 +6,8 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Lg_TipMoviAlm
+    [Table("LgTipMoviAlm")]
+    public partial class LgTipMoviAlm
     {
         [Key]
         [Column(Order = 0)]
@@ -21,8 +22,8 @@ namespace App.Entities.Base
         [StringLength(1)]
         public string Flg_Status { get; set; }
 
-        public virtual Lg_Almacen Lg_Almacen { get; set; }
+        public virtual LgAlmacen LgAlmacen { get; set; }
 
-        public virtual Lg_TiposMov Lg_TiposMov { get; set; }
+        public virtual LgTiposMov LgTiposMov { get; set; }
     }
 }

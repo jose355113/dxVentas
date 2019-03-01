@@ -6,12 +6,13 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Tx_Cliente
+    [Table("TxCliente")]
+    public partial class TxCliente
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Tx_Cliente()
+        public TxCliente()
         {
-            Cn_AnexosContables = new HashSet<Cn_AnexosContables>();
+            CnAnexosContables = new HashSet<CnAnexosContables>();
         }
 
         [Key]
@@ -76,6 +77,6 @@ namespace App.Entities.Base
         public string Cod_Ubigeo_Domicilio { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Cn_AnexosContables> Cn_AnexosContables { get; set; }
+        public virtual ICollection<CnAnexosContables> CnAnexosContables { get; set; }
     }
 }

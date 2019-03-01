@@ -6,12 +6,13 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    public partial class Lg_OrdComp
+    [Table("LgOrdComp")]
+    public partial class LgOrdComp
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Lg_OrdComp()
+        public LgOrdComp()
         {
-            Lg_OrdCompItem = new HashSet<Lg_OrdCompItem>();
+            LgOrdCompItem = new HashSet<LgOrdCompItem>();
         }
 
         [Key]
@@ -67,9 +68,9 @@ namespace App.Entities.Base
 
         public DateTime? Fec_Entrega_Fin { get; set; }
 
-        public virtual Lg_Proveedor Lg_Proveedor { get; set; }
+        public virtual LgProveedor LgProveedor { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Lg_OrdCompItem> Lg_OrdCompItem { get; set; }
+        public virtual ICollection<LgOrdCompItem> LgOrdCompItem { get; set; }
     }
 }
