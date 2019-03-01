@@ -7,8 +7,8 @@ using App.Entities.Base;
 
 namespace App.Data.Repository.Interfaces
 {
-   public interface ILgProveedor : IGenericRepository<LgProveedor>
-
+   public interface ITxClienteRepository : IGenericRepository<TxCliente>
     {
+
     }
 }

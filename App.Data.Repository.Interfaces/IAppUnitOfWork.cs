@@ -13,6 +13,10 @@ namespace App.Data.Repository.Interfaces
         IMarcaRepository MarcaRepository { get; set; }
         IUnidadMedidaRepository UnidadMedidaRepository { get; set; }
         IUsuarioRepository UsuarioRepository { get; set; }
+
+        ITxClienteRepository TxClienteReposistory { get; set; }
+        ILgProveedorRepository LgProveedorReposistory { get; set; }
+        ILgItemRepository LgItemRepository { get; set; }
         int Complete();
 
     }

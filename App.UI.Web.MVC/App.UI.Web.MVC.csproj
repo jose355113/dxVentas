@@ -187,8 +187,11 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\Mantenimientos\ErrorController.cs" />
     <Compile Include="Controllers\Mantenimientos\CategoriaController.cs" />
+    <Compile Include="Controllers\Mantenimientos\LgItemController.cs" />
+    <Compile Include="Controllers\Mantenimientos\LgProveedorController.cs" />
     <Compile Include="Controllers\Mantenimientos\MarcaController.cs" />
     <Compile Include="Controllers\Mantenimientos\ProductoController.cs" />
+    <Compile Include="Controllers\Mantenimientos\TxClienteController.cs" />
     <Compile Include="Controllers\Mantenimientos\UnidadMedidaController.cs" />
     <Compile Include="Controllers\SeguridadController.cs" />
     <Compile Include="CustomHtmlHelpers\CommonHelpers.cs" />
@@ -830,6 +833,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\LgItem\" />
+    <Folder Include="Views\LgProveedor\" />
+    <Folder Include="Views\TxCliente\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

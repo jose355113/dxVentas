@@ -5,9 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using App.Entities.Base;
 
+
 namespace App.Data.Repository.Interfaces
 {
-   public interface ITxCliente : IGenericRepository<TxCliente>
+    public interface ILgItemRepository : IGenericRepository<LgItem> 
     {
 
     }

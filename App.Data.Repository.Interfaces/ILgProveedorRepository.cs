@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using App.Entities.Base;
 
-
 namespace App.Data.Repository.Interfaces
 {
-    public interface ILgItem : IGenericRepository<LgItem>
+   public interface ILgProveedorRepository : IGenericRepository<LgProveedor>
+
     {
     }
 }
