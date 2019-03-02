@@ -34,6 +34,7 @@ namespace App.Data.Repository
             this.ProductoRepository = new ProductoRepository(_context);
             this.UsuarioRepository = new UsuarioRepository(_context);
             this.LgItemRepository = new LgItemRepository(_context);
+            this.LgFamIteRepository = new LgFamIteRepository(_context);
             this.LgProveedorRepository = new LgProveedorRepository(_context);
             this.TxClienteRepository  = new TxClienteRepository(_context);
         }
@@ -45,11 +46,9 @@ namespace App.Data.Repository
         public IUsuarioRepository UsuarioRepository { get; set; }
 
         public ILgItemRepository LgItemRepository { get; set; }
-
+        public ILgFamIteRepository LgFamIteRepository { get; set; }
         public ITxClienteRepository TxClienteRepository { get ; set ; }
         public ILgProveedorRepository LgProveedorRepository { get ; set ; }
-
-
         public int Complete()
         {
             return _context.SaveChanges();

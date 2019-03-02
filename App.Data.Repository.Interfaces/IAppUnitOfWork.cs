@@ -14,9 +14,10 @@ namespace App.Data.Repository.Interfaces
         IUnidadMedidaRepository UnidadMedidaRepository { get; set; }
         IUsuarioRepository UsuarioRepository { get; set; }
 
-        ITxClienteRepository TxClienteReposistory { get; set; }
-        ILgProveedorRepository LgProveedorReposistory { get; set; }
+        ITxClienteRepository TxClienteRepository { get; set; }
+        ILgProveedorRepository LgProveedorRepository { get; set; }
         ILgItemRepository LgItemRepository { get; set; }
+        ILgFamIteRepository LgFamIteRepository { get; set; }
         int Complete();
 
     }

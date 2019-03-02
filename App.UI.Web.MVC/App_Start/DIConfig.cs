@@ -26,6 +26,12 @@ namespace App.UI.Web.MVC.App_Start
             container.Register<IProductoService, ProductoService>();
             container.Register<IUnidadMedidaService, UnidadMedidaService>();
             container.Register<ISeguridadService, SeguridadService>();
+
+            container.Register<ILgItemService, LgItemService>();
+            container.Register<ILgFamIteService, LgFamIteService>();
+            container.Register<ITxClienteService, TxClienteService>();
+            container.Register<ILgProveedorService, LgProveedorService>();
+
             //---
             container.RegisterMvcControllers(Assembly.GetExecutingAssembly());
             container.Verify();
