@@ -29,7 +29,7 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         {
             filtroPorNombre = filtroPorNombre != null ? filtroPorNombre : "";
             var model = txClienteServices.GetAll(filtroPorNombre);
-            return PartialView("IndexListado", model);
+            return PartialView("IndexListadoTxCliente", model);
         }
 
         public ActionResult Create()
@@ -39,12 +39,26 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
 
         [HttpPost]
         public ActionResult Create(
-    [ModelBinder(binderType:typeof(TxClienteBinder))]
+          [ModelBinder(binderType:typeof(TxClienteBinder))]
             TxCliente model)
         {
             var result = txClienteServices.Save(model);
             return RedirectToAction("Index");
         }
+
+        public ActionResult Edit(int id)
+        {
+            var model = txClienteServices.GetById(id);
+            return View("Create", model);
+        }
+
+        [HttpPost]
+        public ActionResult Edit(TxCliente model)
+        {
+            var result = txClienteServices.Save(model);
+            return RedirectToAction("Index");
+        }
+
 
 
     }

@@ -17,6 +17,7 @@ namespace App.Data.Repository
         public AppUnitOfWork()
         {
             _context = new AppModel();
+
             CreateRepositories();
         }
 
@@ -33,10 +34,13 @@ namespace App.Data.Repository
             this.UnidadMedidaRepository = new UnidadMedidaRepository(_context);
             this.ProductoRepository = new ProductoRepository(_context);
             this.UsuarioRepository = new UsuarioRepository(_context);
+
             this.LgItemRepository = new LgItemRepository(_context);
             this.LgFamIteRepository = new LgFamIteRepository(_context);
             this.LgProveedorRepository = new LgProveedorRepository(_context);
             this.TxClienteRepository  = new TxClienteRepository(_context);
+            this.ComentarioRepository = new ComentarioRepository(_context);
+
         }
 
         public ICategoriaRepository CategoriaRepository { get; set; }
@@ -49,6 +53,8 @@ namespace App.Data.Repository
         public ILgFamIteRepository LgFamIteRepository { get; set; }
         public ITxClienteRepository TxClienteRepository { get ; set ; }
         public ILgProveedorRepository LgProveedorRepository { get ; set ; }
+        public IComentarioRepository ComentarioRepository { get; set; }
+
         public int Complete()
         {
             return _context.SaveChanges();

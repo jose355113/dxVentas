@@ -18,6 +18,8 @@ namespace App.Data.Repository.Interfaces
         ILgProveedorRepository LgProveedorRepository { get; set; }
         ILgItemRepository LgItemRepository { get; set; }
         ILgFamIteRepository LgFamIteRepository { get; set; }
+        IComentarioRepository ComentarioRepository { get; set; }
+
         int Complete();
 
     }

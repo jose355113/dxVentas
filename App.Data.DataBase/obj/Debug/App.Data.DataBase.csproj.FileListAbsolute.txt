@@ -44,3 +44,13 @@ D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\obj\Debug\App.Data.Da
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CoreCompileInputs.cache
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll.config
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.pdb
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.dll
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\EntityFramework.dll
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.pdb
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\EntityFramework.xml
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete

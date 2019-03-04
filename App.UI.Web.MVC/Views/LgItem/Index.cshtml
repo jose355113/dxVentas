@@ -1,0 +1,33 @@
+﻿@model IEnumerable<App.Entities.Base.LgItem>
+
+@{
+    ViewBag.Title = "Lista de Items";
+}
+
+<h2>Lista de Items</h2>
+
+<a href="#" onclick="app.helpers.showModal('LgItemCreatePopup','@Url.Action("Create")')" class="btn btn-success">Nuevo</a>
+
+@using (Ajax.BeginForm("Buscar", "LgItem",
+    new AjaxOptions
+    {
+        HttpMethod = "POST",
+        InsertionMode = InsertionMode.Replace,
+        UpdateTargetId = "listado"
+    }
+    ))
+{
+    <p>
+        <input name="filtroPorNombre" />
+        <button type="submit" class="buscar">Buscar</button>
+    </p>
+}
+<div id="listado">
+    @Html.Action("Buscar")
+</div>
+
+
+@Modal.CreateModal("Crear Item", "LgItemCreatePopup")
+
+
+

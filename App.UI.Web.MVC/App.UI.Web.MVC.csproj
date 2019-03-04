@@ -182,11 +182,17 @@
     <Compile Include="App_Start\DIConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\AdminSeguridad\AdminSeguridadAreaRegistration.cs" />
+    <Compile Include="Areas\AdminSeguridad\Controllers\HomeController.cs" />
+    <Compile Include="Areas\Compras\ComprasAreaRegistration.cs" />
+    <Compile Include="Areas\Inventario\InventarioAreaRegistration.cs" />
+    <Compile Include="Areas\Ventas\VentasAreaRegistration.cs" />
     <Compile Include="Common\SecurityHelpers.cs" />
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\Mantenimientos\ErrorController.cs" />
     <Compile Include="Controllers\Mantenimientos\CategoriaController.cs" />
+    <Compile Include="Controllers\Mantenimientos\LgFamIteController.cs" />
     <Compile Include="Controllers\Mantenimientos\LgItemController.cs" />
     <Compile Include="Controllers\Mantenimientos\LgProveedorController.cs" />
     <Compile Include="Controllers\Mantenimientos\MarcaController.cs" />
@@ -766,6 +772,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\App\common\helpers.js" />
+    <Content Include="Scripts\App\views\LgItemView.js" />
     <Content Include="Scripts\App\views\CategoriaView.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -788,6 +795,11 @@
     <Content Include="Content\themes\main\bootstrap\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="Content\themes\main\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="App_Code\Modal.cshtml" />
+    <Content Include="Areas\Compras\Views\web.config" />
+    <Content Include="Areas\Ventas\Views\web.config" />
+    <Content Include="Areas\Inventario\Views\web.config" />
+    <Content Include="Areas\AdminSeguridad\Views\web.config" />
+    <Content Include="Areas\AdminSeguridad\Views\_ViewStart.cshtml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -834,10 +846,25 @@
     <Content Include="Views\Shared\UserLogged.cshtml" />
     <Content Include="Views\Shared\_menu.cshtml" />
     <Content Include="Views\Shared\_EstadosAplicacion.cshtml" />
+    <Content Include="Views\LgItem\Index.cshtml" />
+    <Content Include="Views\LgItem\IndexListado.cshtml" />
+    <Content Include="Views\LgItem\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\LgItem\" />
+    <Folder Include="Areas\AdminSeguridad\Models\" />
+    <Folder Include="Areas\AdminSeguridad\Views\Home\" />
+    <Folder Include="Areas\AdminSeguridad\Views\Shared\" />
+    <Folder Include="Areas\Compras\Controllers\" />
+    <Folder Include="Areas\Compras\Models\" />
+    <Folder Include="Areas\Compras\Views\Shared\" />
+    <Folder Include="Areas\Inventario\Controllers\" />
+    <Folder Include="Areas\Inventario\Models\" />
+    <Folder Include="Areas\Inventario\Views\Shared\" />
+    <Folder Include="Areas\Ventas\Controllers\" />
+    <Folder Include="Areas\Ventas\Models\" />
+    <Folder Include="Areas\Ventas\Views\Shared\" />
+    <Folder Include="Views\LgFamIte\" />
     <Folder Include="Views\LgProveedor\" />
     <Folder Include="Views\TxCliente\" />
   </ItemGroup>

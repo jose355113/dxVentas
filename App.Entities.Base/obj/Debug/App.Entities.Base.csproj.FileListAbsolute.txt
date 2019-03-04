@@ -18,3 +18,7 @@ C:\Web2017\Labs\vs2017web_2018_1\Cap06\Lab02\slnVentas\App.Entities.Base\obj\Deb
 C:\Web2017\Labs\vs2017web_2018_1\Cap06\Lab02\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
