@@ -19,7 +19,7 @@ namespace App.Domain.Services
             using (var unitOfWork = new AppUnitOfWork())
             {
                 result = unitOfWork.LgFamIteRepository.GetAll(
-                    item => item.Des_Item.Contains(nombre)
+                    item => item.des_famitem.Contains(nombre)
                     ).ToList();
             }
 

@@ -12,7 +12,7 @@ namespace App.UI.Web.MVC.ModelBinders
         public object BindModel(ControllerContext controllerContext, ModelBindingContext bindingContext)
         {
             LgFamIte model = new LgFamIte();
-            model.des_famitem = HttpContext.Current.Request.Form["des_famitem"]
+            model.des_famitem = HttpContext.Current.Request.Form["des_famitem"];
 
             return model;
         }

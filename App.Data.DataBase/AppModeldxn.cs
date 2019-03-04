@@ -4,6 +4,7 @@ namespace App.Data.DataBase
     using System.Data.Entity;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Linq;
+    using App.Entities.Base;
 
     public partial class AppModeldxn : DbContext
     {
