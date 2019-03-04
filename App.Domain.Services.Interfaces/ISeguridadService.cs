@@ -9,6 +9,9 @@ namespace App.Domain.Services.Interfaces
 {
     public interface ISeguridadService
     {
+      
         Usuario VerificarUsuario(string login, string password);
+
+        IEnumerable<Usuario> GetAll(string nombre);
     }
 }

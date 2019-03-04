@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="LgFamIteService.cs" />
     <Compile Include="LgItemService.cs" />
+    <Compile Include="ComentarioService.cs" />
     <Compile Include="TxClienteService.cs" />
     <Compile Include="LgProveedorService.cs" />
     <Compile Include="SeguridadService.cs" />

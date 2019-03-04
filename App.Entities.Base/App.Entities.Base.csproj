@@ -47,6 +47,7 @@
     <Compile Include="CnTiposVenta.cs" />
     <Compile Include="CnVentas.cs" />
     <Compile Include="CnVentasItems.cs" />
+    <Compile Include="Comentario.cs" />
     <Compile Include="LgAlmacen.cs" />
     <Compile Include="LgFamIte.cs" />
     <Compile Include="LgItem.cs" />

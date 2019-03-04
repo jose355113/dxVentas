@@ -46,6 +46,7 @@
     <Compile Include="ILgProveedorRepository.cs" />
     <Compile Include="IMarcaRepository.cs" />
     <Compile Include="ITxClienteRepository.cs" />
+    <Compile Include="IComentarioRepository.cs" />
     <Compile Include="IUsuarioRepository.cs" />
     <Compile Include="IProductoRepository.cs" />
     <Compile Include="ICategoriaRepository.cs" />
