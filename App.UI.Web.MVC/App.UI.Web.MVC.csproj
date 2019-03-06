@@ -800,6 +800,8 @@
     <Content Include="Areas\Inventario\Views\web.config" />
     <Content Include="Areas\AdminSeguridad\Views\web.config" />
     <Content Include="Areas\AdminSeguridad\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\AdminSeguridad\Views\Home\Index.cshtml" />
+    <Content Include="Areas\AdminSeguridad\Views\Home\BuscarListado.cshtml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -853,7 +855,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\AdminSeguridad\Models\" />
-    <Folder Include="Areas\AdminSeguridad\Views\Home\" />
     <Folder Include="Areas\AdminSeguridad\Views\Shared\" />
     <Folder Include="Areas\Compras\Controllers\" />
     <Folder Include="Areas\Compras\Models\" />

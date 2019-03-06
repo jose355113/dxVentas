@@ -35,10 +35,19 @@ namespace App.UI.Web.MVC
                 );
 
             /*Mapa de rutas por defecto debe ir al final*/
+            //routes.MapRoute(
+            //    name: "Default",
+            //    url: "{controller}/{action}/{id}",
+            //    defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+            //);
+
+            /*Mapa de rutas por defecto debe ir al final */
+            /*para cuando se agrega la carpeta Areas se tiene incluir esta linea de codigo "App.UI.Web.MVC.Controllers" */
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
+                namespaces: new string[] { "App.UI.Web.MVC.Controllers" }
             );
 
             /*
