@@ -31,6 +31,7 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             filtroPorNombre = filtroPorNombre != null ? filtroPorNombre : "";
             var model = categoriaServices.GetAll(filtroPorNombre);
             return PartialView("IndexListado",model);
+            
         }
 
         public ActionResult Create()

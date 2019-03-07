@@ -849,7 +849,7 @@
     <Content Include="Views\Shared\_menu.cshtml" />
     <Content Include="Views\Shared\_EstadosAplicacion.cshtml" />
     <Content Include="Views\LgItem\Index.cshtml" />
-    <Content Include="Views\LgItem\IndexListado.cshtml" />
+    <Content Include="Views\LgItem\IndexListadoLgItem.cshtml" />
     <Content Include="Views\LgItem\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
