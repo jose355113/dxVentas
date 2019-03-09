@@ -851,6 +851,7 @@
     <Content Include="Views\LgItem\Index.cshtml" />
     <Content Include="Views\LgItem\IndexListadoLgItem.cshtml" />
     <Content Include="Views\LgItem\Create.cshtml" />
+    <Content Include="Views\LgItem\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -22,3 +22,9 @@ D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Entities.Base\bin\Debug\App.Entitie
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+H:\SistFacturacionWeb\dxVentas\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+H:\SistFacturacionWeb\dxVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+H:\SistFacturacionWeb\dxVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+H:\SistFacturacionWeb\dxVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+H:\SistFacturacionWeb\dxVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+H:\SistFacturacionWeb\dxVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

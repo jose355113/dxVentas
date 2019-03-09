@@ -1,30 +1,31 @@
 ﻿@model IEnumerable<App.Entities.Base.LgItem>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
+@*<p>
+    @Html.ActionLink("Nuevo Item", "Create")
+</p>*@
+
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.Cod_FamItem)
+            Cod. Familia
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Cod_UniMed)
+            Cod. Unidad
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Des_Item)
+            Descripcion Item
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Fec_Creacion)
+            Fecha Creacion
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Can_PtoReor)
+            Cant. Reorden
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Can_LotPed)
+            Cant Lote
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Flg_Status)
+            Estado
         </th>
         <th>
 
@@ -37,39 +38,34 @@
 
     @foreach (var item in Model)
     {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Cod_FamItem)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Cod_UniMed)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Des_Item)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Fec_Creacion)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Can_PtoReor)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Can_LotPed)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Flg_Status)
-            </td>
-            <td>
-                <a href="@Url.Action("Edit", new { id = item.Cod_Item })">
-                    <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
-                </a>
-            </td>
-            <td>
-                @*@Html.ActionLink("Edit", "Edit", new { id = item.Cod_Item }) |*@
-                @Html.ActionLink("Details", "Details", new { id = item.Cod_Item }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.Cod_Item })
-            </td>
-        </tr>
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cod_FamItem)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cod_UniMed)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Des_Item)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fec_Creacion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Can_PtoReor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Can_LotPed)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Flg_Status)
+        </td>
+
+        <td><a class="btn btn-success" href="~/LgItem/Find/@item.Cod_Item"><span class="glyphicon glyphicon-eye-open"></span></a></td>
+        <td><a class="btn btn-info" href="#" onclick="app.helpers.showModal('LgItemCreatePopup','@Url.Action("Create")')"><span class="fa fa-edit"></span></a></td>
+        <td><a class="btn btn-danger" href="~/LgItem/Eliminar/@item.Cod_Item"><span class="fa fa-book"></span></a></td>
+
+    </tr>
     }
 
 </table>

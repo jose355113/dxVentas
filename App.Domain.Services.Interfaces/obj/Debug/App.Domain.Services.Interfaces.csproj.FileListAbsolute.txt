@@ -34,3 +34,12 @@ D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Domain.Services.Interfaces\obj\Debu
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CopyComplete
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.dll
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.pdb
+H:\SistFacturacionWeb\dxVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.dll
+H:\SistFacturacionWeb\dxVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.pdb
+H:\SistFacturacionWeb\dxVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.dll
+H:\SistFacturacionWeb\dxVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.pdb
+H:\SistFacturacionWeb\dxVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csprojAssemblyReference.cache
+H:\SistFacturacionWeb\dxVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CoreCompileInputs.cache
+H:\SistFacturacionWeb\dxVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CopyComplete
+H:\SistFacturacionWeb\dxVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.dll
+H:\SistFacturacionWeb\dxVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.pdb

@@ -34,3 +34,12 @@ D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.Repository.Interfaces\bin\Debu
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+H:\SistFacturacionWeb\dxVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.dll
+H:\SistFacturacionWeb\dxVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.pdb
+H:\SistFacturacionWeb\dxVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
+H:\SistFacturacionWeb\dxVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
+H:\SistFacturacionWeb\dxVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csprojAssemblyReference.cache
+H:\SistFacturacionWeb\dxVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CoreCompileInputs.cache
+H:\SistFacturacionWeb\dxVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+H:\SistFacturacionWeb\dxVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
+H:\SistFacturacionWeb\dxVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb

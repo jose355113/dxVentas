@@ -54,3 +54,17 @@ D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\App.Entitie
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\EntityFramework.xml
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.xml
 D:\joseLeon\proyectos_ventas_dx\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll.config
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.pdb
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.dll
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\bin\Debug\EntityFramework.dll
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.pdb
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\bin\Debug\EntityFramework.xml
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csprojAssemblyReference.cache
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CoreCompileInputs.cache
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
+H:\SistFacturacionWeb\dxVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb
