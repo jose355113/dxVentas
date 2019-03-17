@@ -14,7 +14,7 @@ namespace App.Domain.Services.Interfaces
 
         IEnumerable<LgItem> GetAll(string nombre);
         bool Save(LgItem entity);
-        LgItem GetById(int id);
+        LgItem GetById(string id);
 
     }
 }

@@ -45,10 +45,10 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             return RedirectToAction("Index");
         }
 
-        public ActionResult Edit(int id)
+        public ActionResult Edit(string id)
         {
             var model = lgItemServices.GetById(id);
-            return View("Create", model);
+            return View("Edit", model);
         }
 
         [HttpPost]
@@ -56,6 +56,12 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         {
             var result = lgItemServices.Save(model);
             return RedirectToAction("Index");
+        }
+
+        public ActionResult Find(string cod_item)
+        {
+            var model = lgItemServices.GetById(cod_item);
+            return View("Find", model);
         }
 
 

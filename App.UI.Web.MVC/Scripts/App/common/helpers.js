@@ -33,7 +33,8 @@
             var json = localStorage.getItem(keyStorage);
             return JSON.parse(json);
         },
-        showModal: function (containerId,url) {            
+        showModal: function (containerId, url) {
+            debugger
             //Invocando a la vista utilizando AJAX
             $.get(url,
                 function (html) {

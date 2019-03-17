@@ -1428,3 +1428,773 @@ Nombre del parámetro: parameters
 2019-03-09 14:50:39,494 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 09/03/2019 14:50:39
 2019-03-09 14:50:42,383 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 09/03/2019 14:50:42
 2019-03-09 14:50:42,383 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 09/03/2019 14:50:42
+2019-03-16 06:12:54,283 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad, Action: Login,Hora de inicio: 16/03/2019 06:12:54
+2019-03-16 06:12:54,318 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad, Action: Login,Hora de Fin: 16/03/2019 06:12:54
+2019-03-16 06:13:12,167 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad, Action: Login,Hora de inicio: 16/03/2019 06:13:12
+2019-03-16 06:13:13,887 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad, Action: Login,Hora de Fin: 16/03/2019 06:13:13
+2019-03-16 06:13:13,923 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home, Action: Index,Hora de inicio: 16/03/2019 06:13:13
+2019-03-16 06:13:13,924 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home, Action: Index,Hora de Fin: 16/03/2019 06:13:13
+2019-03-16 06:13:16,742 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 06:13:16
+2019-03-16 06:13:16,742 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 06:13:16
+2019-03-16 06:13:28,066 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 06:13:28
+2019-03-16 06:13:28,158 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 06:13:28
+2019-03-16 06:13:51,105 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 06:13:51
+2019-03-16 06:13:51,106 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 06:13:51
+2019-03-16 06:14:03,367 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 06:14:03
+2019-03-16 06:14:03,367 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 06:14:03
+2019-03-16 06:14:03,367 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 06:14:03
+2019-03-16 06:14:03,387 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 06:14:03
+2019-03-16 06:14:13,499 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 06:14:13
+2019-03-16 06:14:13,499 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 06:14:13
+2019-03-16 06:14:20,410 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 06:14:20
+2019-03-16 06:14:20,410 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 06:14:20
+2019-03-16 06:14:20,411 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 06:14:20
+2019-03-16 06:14:20,441 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 06:14:20
+2019-03-16 06:14:25,445 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 06:14:25
+2019-03-16 06:14:25,445 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 06:14:25
+2019-03-16 06:14:27,229 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 06:14:27
+2019-03-16 06:14:27,229 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 06:14:27
+2019-03-16 06:14:27,230 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 06:14:27
+2019-03-16 06:14:27,264 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 06:14:27
+2019-03-16 07:18:52,751 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad, Action: Login,Hora de inicio: 16/03/2019 07:18:52
+2019-03-16 07:18:52,778 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad, Action: Login,Hora de Fin: 16/03/2019 07:18:52
+2019-03-16 07:18:59,775 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad, Action: Login,Hora de inicio: 16/03/2019 07:18:59
+2019-03-16 07:19:01,162 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad, Action: Login,Hora de Fin: 16/03/2019 07:19:01
+2019-03-16 07:19:01,261 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home, Action: Index,Hora de inicio: 16/03/2019 07:19:01
+2019-03-16 07:19:01,261 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home, Action: Index,Hora de Fin: 16/03/2019 07:19:01
+2019-03-16 07:19:03,820 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:19:03
+2019-03-16 07:19:03,820 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:19:03
+2019-03-16 07:19:08,509 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:19:08
+2019-03-16 07:19:08,675 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:19:08
+2019-03-16 07:19:12,181 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:19:12
+2019-03-16 07:19:12,181 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:19:12
+2019-03-16 07:19:12,184 [14] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:19:13,569 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:19:13
+2019-03-16 07:19:13,570 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:19:13
+2019-03-16 07:19:13,570 [13] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:19:17,577 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:19:17
+2019-03-16 07:19:17,577 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:19:17
+2019-03-16 07:19:17,578 [13] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:19:40,327 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:19:40
+2019-03-16 07:19:40,328 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:19:40
+2019-03-16 07:19:40,329 [6] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:20:20,598 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:20:20
+2019-03-16 07:20:20,599 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:20:20
+2019-03-16 07:20:20,599 [13] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:20:36,863 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:20:36
+2019-03-16 07:20:36,865 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:20:36
+2019-03-16 07:20:39,329 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:20:39
+2019-03-16 07:20:39,330 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:20:39
+2019-03-16 07:20:40,041 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:20:40
+2019-03-16 07:20:40,041 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:20:40
+2019-03-16 07:20:40,695 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:20:40
+2019-03-16 07:20:40,695 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:20:40
+2019-03-16 07:20:41,270 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:20:41
+2019-03-16 07:20:41,271 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:20:41
+2019-03-16 07:21:00,844 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:21:00
+2019-03-16 07:21:00,844 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:21:00
+2019-03-16 07:21:02,275 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:21:02
+2019-03-16 07:21:02,275 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:21:02
+2019-03-16 07:21:02,769 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:21:02
+2019-03-16 07:21:02,769 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:21:02
+2019-03-16 07:21:04,885 [19] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:04
+2019-03-16 07:21:04,885 [19] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:04
+2019-03-16 07:21:04,886 [19] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:08,225 [22] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:08
+2019-03-16 07:21:08,226 [22] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:08
+2019-03-16 07:21:08,226 [22] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:09,515 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:09
+2019-03-16 07:21:09,515 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:09
+2019-03-16 07:21:09,515 [21] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:11,679 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:11
+2019-03-16 07:21:11,679 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:11
+2019-03-16 07:21:11,679 [21] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:15,180 [22] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:15
+2019-03-16 07:21:15,180 [22] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:15
+2019-03-16 07:21:15,181 [22] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:20,472 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:21:20
+2019-03-16 07:21:20,494 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:21:20
+2019-03-16 07:21:21,451 [17] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:21:21
+2019-03-16 07:21:21,468 [17] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:21:21
+2019-03-16 07:21:23,172 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:21:23
+2019-03-16 07:21:23,172 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:21:23
+2019-03-16 07:21:37,605 [22] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:37
+2019-03-16 07:21:37,605 [22] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:37
+2019-03-16 07:21:37,606 [22] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:39,365 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:39
+2019-03-16 07:21:39,366 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:39
+2019-03-16 07:21:39,366 [13] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:40,439 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:40
+2019-03-16 07:21:40,440 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:40
+2019-03-16 07:21:40,440 [6] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:41,168 [19] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:41
+2019-03-16 07:21:41,169 [19] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:41
+2019-03-16 07:21:41,169 [19] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:41,804 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:41
+2019-03-16 07:21:41,804 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:41
+2019-03-16 07:21:41,804 [21] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:42,364 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:42
+2019-03-16 07:21:42,364 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:42
+2019-03-16 07:21:42,365 [13] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:42,930 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:42
+2019-03-16 07:21:42,931 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:42
+2019-03-16 07:21:42,931 [13] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:43,123 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:43
+2019-03-16 07:21:43,124 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:43
+2019-03-16 07:21:43,125 [16] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:43,315 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:43
+2019-03-16 07:21:43,315 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:43
+2019-03-16 07:21:43,315 [15] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:21:44,440 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:21:44
+2019-03-16 07:21:44,440 [21] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:21:44
+2019-03-16 07:21:44,440 [21] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:37:19,950 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home, Action: Index,Hora de inicio: 16/03/2019 07:37:19
+2019-03-16 07:37:19,970 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home, Action: Index,Hora de Fin: 16/03/2019 07:37:19
+2019-03-16 07:37:22,953 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:37:22
+2019-03-16 07:37:22,954 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:37:22
+2019-03-16 07:37:23,017 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:37:23
+2019-03-16 07:37:23,514 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:37:23
+2019-03-16 07:37:29,690 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:37:29
+2019-03-16 07:37:29,691 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:37:29
+2019-03-16 07:37:29,694 [10] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:37:30,624 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 07:37:30
+2019-03-16 07:37:30,625 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 07:37:30
+2019-03-16 07:37:30,625 [15] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 07:37:32,132 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:37:32
+2019-03-16 07:37:32,132 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:37:32
+2019-03-16 07:37:32,132 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:37:32
+2019-03-16 07:37:32,144 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:37:32
+2019-03-16 07:37:32,188 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:37:32
+2019-03-16 07:37:32,224 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:37:32
+2019-03-16 07:37:33,035 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:37:33
+2019-03-16 07:37:33,035 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:37:33
+2019-03-16 07:37:33,904 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:37:33
+2019-03-16 07:37:33,904 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:37:33
+2019-03-16 07:37:34,108 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:37:34
+2019-03-16 07:37:34,108 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:37:34
+2019-03-16 07:37:34,276 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:37:34
+2019-03-16 07:37:34,276 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:37:34
+2019-03-16 07:37:34,438 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:37:34
+2019-03-16 07:37:34,438 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:37:34
+2019-03-16 07:37:34,620 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:37:34
+2019-03-16 07:37:34,621 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:37:34
+2019-03-16 07:37:34,823 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:37:34
+2019-03-16 07:37:34,823 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:37:34
+2019-03-16 07:37:38,530 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:37:38
+2019-03-16 07:37:38,530 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:37:38
+2019-03-16 07:38:34,101 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:38:34
+2019-03-16 07:38:34,123 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:38:34
+2019-03-16 07:38:34,917 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:38:34
+2019-03-16 07:38:35,480 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:38:35
+2019-03-16 07:38:39,416 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:38:39
+2019-03-16 07:38:39,416 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:38:39
+2019-03-16 07:39:02,120 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:39:02
+2019-03-16 07:39:02,120 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:39:02
+2019-03-16 07:39:02,405 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:39:02
+2019-03-16 07:39:02,420 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:39:02
+2019-03-16 07:39:02,698 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:39:02
+2019-03-16 07:39:02,698 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:39:02
+2019-03-16 07:39:02,699 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:39:02
+2019-03-16 07:39:02,739 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:39:02
+2019-03-16 07:39:05,916 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:39:05
+2019-03-16 07:39:05,916 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:39:05
+2019-03-16 07:39:06,880 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:39:06
+2019-03-16 07:39:06,880 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:39:06
+2019-03-16 07:39:08,243 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:39:08
+2019-03-16 07:39:08,243 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:39:08
+2019-03-16 07:39:08,831 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:39:08
+2019-03-16 07:39:08,831 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:39:08
+2019-03-16 07:39:09,032 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:39:09
+2019-03-16 07:39:09,032 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:39:09
+2019-03-16 07:39:09,221 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:39:09
+2019-03-16 07:39:09,221 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:39:09
+2019-03-16 07:39:20,272 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:39:20
+2019-03-16 07:39:20,272 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:39:20
+2019-03-16 07:39:20,482 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:39:20
+2019-03-16 07:39:20,499 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:39:20
+2019-03-16 07:39:22,530 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:39:22
+2019-03-16 07:39:22,530 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:39:22
+2019-03-16 07:39:35,743 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:39:35
+2019-03-16 07:39:35,743 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:39:35
+2019-03-16 07:44:55,104 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:44:55
+2019-03-16 07:44:55,104 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:44:55
+2019-03-16 07:45:18,387 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:45:18
+2019-03-16 07:45:18,387 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:45:18
+2019-03-16 07:46:34,352 [44] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:46:34
+2019-03-16 07:46:34,352 [44] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:46:34
+2019-03-16 07:46:48,478 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:46:48
+2019-03-16 07:46:48,478 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:46:48
+2019-03-16 07:47:00,457 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:47:00
+2019-03-16 07:47:00,457 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:47:00
+2019-03-16 07:47:00,461 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:47:00
+2019-03-16 07:47:00,483 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:47:00
+2019-03-16 07:47:00,736 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:47:00
+2019-03-16 07:47:00,736 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:47:00
+2019-03-16 07:47:00,736 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:47:00
+2019-03-16 07:47:00,752 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:47:00
+2019-03-16 07:47:01,111 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:47:01
+2019-03-16 07:47:01,111 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:47:01
+2019-03-16 07:47:01,111 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:47:01
+2019-03-16 07:47:01,130 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:47:01
+2019-03-16 07:47:01,479 [44] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:47:01
+2019-03-16 07:47:01,479 [44] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:47:01
+2019-03-16 07:47:01,480 [44] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:47:01
+2019-03-16 07:47:01,496 [44] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:47:01
+2019-03-16 07:47:01,900 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:47:01
+2019-03-16 07:47:01,900 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:47:01
+2019-03-16 07:47:01,901 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:47:01
+2019-03-16 07:47:01,925 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:47:01
+2019-03-16 07:47:02,236 [44] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:47:02
+2019-03-16 07:47:02,236 [44] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:47:02
+2019-03-16 07:47:02,237 [44] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:47:02
+2019-03-16 07:47:02,253 [44] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:47:02
+2019-03-16 07:47:02,608 [37] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:47:02
+2019-03-16 07:47:02,608 [37] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:47:02
+2019-03-16 07:47:02,609 [37] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:47:02
+2019-03-16 07:47:02,626 [37] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:47:02
+2019-03-16 07:47:02,959 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:47:02
+2019-03-16 07:47:02,959 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:47:02
+2019-03-16 07:47:02,960 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:47:02
+2019-03-16 07:47:02,986 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:47:02
+2019-03-16 07:48:06,782 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:48:06
+2019-03-16 07:48:06,782 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:48:06
+2019-03-16 07:50:40,206 [33] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:50:40
+2019-03-16 07:50:40,206 [33] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:50:40
+2019-03-16 07:50:40,210 [33] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:50:40
+2019-03-16 07:50:40,238 [33] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:50:40
+2019-03-16 07:50:40,616 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:50:40
+2019-03-16 07:50:40,616 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:50:40
+2019-03-16 07:50:40,616 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:50:40
+2019-03-16 07:50:40,636 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:50:40
+2019-03-16 07:50:41,246 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:50:41
+2019-03-16 07:50:41,246 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:50:41
+2019-03-16 07:50:41,247 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:50:41
+2019-03-16 07:50:41,266 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:50:41
+2019-03-16 07:51:48,768 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 07:51:48
+2019-03-16 07:51:48,769 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 07:51:48
+2019-03-16 07:52:34,529 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 07:52:34
+2019-03-16 07:52:34,530 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 07:52:34
+2019-03-16 07:52:34,531 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 07:52:34
+2019-03-16 07:52:34,554 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 07:52:34
+2019-03-16 10:16:16,712 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad, Action: Login,Hora de inicio: 16/03/2019 10:16:16
+2019-03-16 10:16:16,750 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad, Action: Login,Hora de Fin: 16/03/2019 10:16:16
+2019-03-16 10:16:28,111 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad, Action: Login,Hora de inicio: 16/03/2019 10:16:28
+2019-03-16 10:16:29,573 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad, Action: Login,Hora de Fin: 16/03/2019 10:16:29
+2019-03-16 10:16:29,648 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home, Action: Index,Hora de inicio: 16/03/2019 10:16:29
+2019-03-16 10:16:29,648 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home, Action: Index,Hora de Fin: 16/03/2019 10:16:29
+2019-03-16 10:16:32,217 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 10:16:32
+2019-03-16 10:16:32,217 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 10:16:32
+2019-03-16 10:16:32,533 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 10:16:32
+2019-03-16 10:16:32,811 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 10:16:32
+2019-03-16 10:16:34,869 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 10:16:34
+2019-03-16 10:16:34,870 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 10:16:34
+2019-03-16 10:16:40,758 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 10:16:40
+2019-03-16 10:16:40,758 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 10:16:40
+2019-03-16 10:16:43,640 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 10:16:43
+2019-03-16 10:16:43,640 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 10:16:43
+2019-03-16 10:16:43,641 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 10:16:43
+2019-03-16 10:16:43,669 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 10:16:43
+2019-03-16 10:17:31,015 [7] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 10:17:31
+2019-03-16 10:17:31,015 [7] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 10:17:31
+2019-03-16 10:17:31,331 [7] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 10:17:31
+2019-03-16 10:17:31,347 [7] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 10:17:31
+2019-03-16 10:17:31,634 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Index,Hora de inicio: 16/03/2019 10:17:31
+2019-03-16 10:17:31,634 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Index,Hora de Fin: 16/03/2019 10:17:31
+2019-03-16 10:17:31,635 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Buscar,Hora de inicio: 16/03/2019 10:17:31
+2019-03-16 10:17:31,650 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Buscar,Hora de Fin: 16/03/2019 10:17:31
+2019-03-16 10:17:35,808 [28] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Create,Hora de inicio: 16/03/2019 10:17:35
+2019-03-16 10:17:35,808 [28] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Create,Hora de Fin: 16/03/2019 10:17:35
+2019-03-16 10:17:38,810 [28] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 10:17:38
+2019-03-16 10:17:38,811 [28] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 10:17:38
+2019-03-16 10:17:38,813 [28] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 10:17:39,949 [19] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 10:17:39
+2019-03-16 10:17:39,949 [19] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 10:17:39
+2019-03-16 10:17:39,950 [19] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 10:17:40,770 [7] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 10:17:40
+2019-03-16 10:17:40,770 [7] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 10:17:40
+2019-03-16 10:17:40,771 [7] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 10:17:41,690 [19] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 10:17:41
+2019-03-16 10:17:41,690 [19] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 10:17:41
+2019-03-16 10:17:41,690 [19] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 10:17:42,471 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 10:17:42
+2019-03-16 10:17:42,471 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 10:17:42
+2019-03-16 10:17:42,472 [13] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-16 10:17:43,298 [7] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: LgItem, Action: Edit,Hora de inicio: 16/03/2019 10:17:43
+2019-03-16 10:17:43,299 [7] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: LgItem, Action: Edit,Hora de Fin: 16/03/2019 10:17:43
+2019-03-16 10:17:43,300 [7] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.ArgumentException: El diccionario de parámetros contiene una entrada NULL para el parámetro 'id' del tipo que no acepta valores NULL 'System.Int32' del método 'System.Web.Mvc.ActionResult Edit(Int32)' en 'App.UI.Web.MVC.Controllers.Mantenimientos.LgItemController'. Un parámetro opcional debe ser un tipo de referencia, un tipo que acepte valores NULL o debe declararse como parámetro opcional.
+Nombre del parámetro: parameters
+   en System.Web.Mvc.ActionDescriptor.ExtractParameterFromDictionary(ParameterInfo parameterInfo, IDictionary`2 parameters, MethodInfo methodInfo)
+   en System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)

@@ -25,7 +25,7 @@ namespace App.Domain.Services
             return result;
         }
 
-        public LgItem GetById(int id)
+        public LgItem GetById(string id)
         {
 
             LgItem result;
@@ -38,6 +38,20 @@ namespace App.Domain.Services
             return result;
 
         }
+
+        //public bool Remove(LgItem entity)
+        //{
+
+        //    bool result=false;
+
+        //    using (var unitOfWork = new AppUnitOfWork())
+        //    {
+        //        result = unitOfWork.LgItemRepository.Remove(entity);
+        //        unitOfWork.Complete();
+        //    }
+            
+        //    return result;
+        //}
 
         public bool Save(LgItem entity)
         {

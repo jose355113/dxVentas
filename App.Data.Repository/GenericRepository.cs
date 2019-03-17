@@ -65,7 +65,7 @@ namespace App.Data.Repository
             return query.ToList();
         }
 
-        public TEntity GetById(int id)
+        public TEntity GetById(string id)
         {
             return this.context.Set<TEntity>().Find(id);
         }
